@@ -10,7 +10,7 @@
 <br/><br/>
 
 <!-- Quick social badges -->
-[![LinkedIn](https://img.shields.io/badge/-Michel_Bitar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelbitar)
+[![LinkedIn](https://img.shields.io/badge/-Michel_Bitar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michel-bitar)
 [![SideQ](https://img.shields.io/badge/-sideq.io-6C63FF?style=flat&logo=safari&logoColor=white)](https://sideq.io)
 [![Coursera](https://img.shields.io/badge/-Coursera_Instructor-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org)
 [![GitHub](https://img.shields.io/badge/-MichelBitar99-181717?style=flat&logo=github&logoColor=white)](https://github.com/MichelBitar99)
@@ -30,11 +30,12 @@ side_quest: Co-Founder @ sideq.io
 location: Lebanon / Belgium
 education: BSc Computer Science @ USEK (GPA 4.0)
 currently:
-  - building an internal AI knowledge platform with LLMs, RAG & MCP
+  - integrating AI into 3 existing solutions
   - leading a cross-functional team of 4 engineers
-  - shipping 6+ production services handling 700+ req/s
+  - providing technical consultancy for 3 startups
   - freelancing for 10+ clients through sideq.io
-fun_fact: "I reduced manual evaluation time by 70% with AI — then automated the rest"
+  - delivering a full-fletched ERP implementation for a multi national client
+fun_fact: "I reduced manual evaluation time by 70% with AI, then automated the rest"
 ```
 
 <br clear="right"/>
@@ -50,11 +51,9 @@ fun_fact: "I reduced manual evaluation time by 70% with AI — then automated th
 </div>
 
 ```text
-🧠 AI Knowledge Platform    Built an internal platform at Cardinal Health using LLM APIs, MCP, and RAG
-                              to provide grounded, source-attributed answers over internal docs.
 
-⚙️  AI-Assisted Evaluation   Integrated LLM APIs into a Spring Boot app, reducing manual evaluation
-                              time by 70% while keeping humans in the loop.
+⚙️  AI-Assisted Evaluation   Integrated LLM APIs into an existing system, reducing manual evaluation
+                              time by 80% while keeping humans in the loop.
 
 🔗 Prompt Engineering       Designing prompts and orchestration flows for production RAG pipelines
                               with structured retrieval and citation.
@@ -150,8 +149,8 @@ fun_fact: "I reduced manual evaluation time by 70% with AI — then automated th
 <td width="50%" valign="top">
 
 #### 🚀 [sideq.io](https://sideq.io)
-*Freelance engineering & startup studio*<br/>
-10+ clients served. Custom backend systems, SaaS apps, and AI-assisted workflows for startups.
+*Freelance development & startup studio*<br/>
+15+ clients served. Custom backend systems, SaaS apps, and AI-assisted workflows for startups.
 <br/><br/>
 `freelance` `saas` `ai-workflows` `architecture`
 
@@ -176,12 +175,11 @@ Published a guided project teaching hands-on infrastructure automation with Ansi
 
 ```text
 ✔ 5+ years building production systems used by 7500+ users/clients
-✔ Designed an AI knowledge platform with LLMs, RAG & MCP at Cardinal Health
-✔ Scaled Java/Spring Boot services to 700+ requests/second
+✔ Designed AI platforms for organizations leveraging LLMs, RAG & MCP
+✔ Scaled application services to 700+ requests/second
 ✔ Migrated observability across 2,500+ VMs at Sodexo (Dynatrace → Datadog)
 ✔ Built automation tooling for Toyota Motor Europe & Daikin
 ✔ Co-authored "What's New in Spring Boot 3" publication
-✔ Certified Ethical Hacker (CEH v10)
 ✔ BSc Computer Science — USEK, GPA 4.0
 ```
 
