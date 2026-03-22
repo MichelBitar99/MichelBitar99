@@ -27,7 +27,7 @@
 name: Michel Bitar
 role: Software Engineering Manager @ Cardinal Health
 side_quest: Co-Founder @ sideq.io
-location: Lebanon / Belgium
+location: Lebanon
 education: BSc Computer Science @ USEK (GPA 4.0)
 currently:
   - integrating AI into 3 existing solutions
@@ -35,7 +35,7 @@ currently:
   - providing technical consultancy for 3 startups
   - freelancing for 10+ clients through sideq.io
   - delivering a full-fletched ERP implementation for a multi national client
-fun_fact: "I reduced manual evaluation time by 70% with AI, then automated the rest"
+fun_fact: "I reduced manual evaluation time by 80% with AI, then automated the rest"
 ```
 
 <br clear="right"/>
