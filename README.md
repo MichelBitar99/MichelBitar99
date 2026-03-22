@@ -103,7 +103,7 @@ fun_fact: "I reduced manual evaluation time by 70% with AI, then automated the r
 <div align="center">
 
 <a href="https://github.com/MichelBitar99">
-  <img src="https://raw.githubusercontent.com/MichelBitar99/MichelBitar99/profile-summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/MichelBitar99/MichelBitar99/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
 </a>
 
 <br/><br/>
