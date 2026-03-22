@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichelBitar99&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" width="230" />
+<img align="right" src="https://raw.githubusercontent.com/MichelBitar99/MichelBitar99/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="230" />
 
 ### `$ whoami`
 
