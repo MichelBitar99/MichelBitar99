@@ -133,9 +133,17 @@ fun_fact: "I reduced manual evaluation time by 80% with AI, then automated the r
 ### ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-🕐 Setting up WakaTime — stats will appear here soon!
+
+```txt
+From: 15 March 2026 - To: 22 March 2026
+
+textmate         0 secs                ██████████████████████░░░   87.69 %
+GitIgnore file   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Docker           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+.env file        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+YAML             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
