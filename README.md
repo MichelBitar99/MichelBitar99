@@ -12,7 +12,7 @@
 <!-- Quick social badges -->
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michel-bitar)
 [![SideQ](https://img.shields.io/badge/-sideq.io-6C63FF?style=flat&logo=safari&logoColor=white)](https://sideq.io)
-[![Coursera](https://img.shields.io/badge/-Coursera_Instructor-0056D2?style=flat&logo=coursera&logoColor=white)](https://coursera.org)
+[![Coursera](https://img.shields.io/badge/-Coursera_Instructor-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/projects/automation-with-ansible--web-server-deployment)
 [![GitHub](https://img.shields.io/badge/-MichelBitar99-181717?style=flat&logo=github&logoColor=white)](https://github.com/MichelBitar99)
 
 </div>
