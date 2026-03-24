@@ -5,7 +5,7 @@
 
 <!-- Subtle tagline -->
 <br/>
-<samp>building AI knowledge platforms by day · shipping startups by night · automating everything in between</samp>
+<samp>building AI platforms by day · shipping startups by night · automating everything in between</samp>
 
 <br/><br/>
 
@@ -166,7 +166,7 @@ YAML             0 secs                ░░░░░░░░░░░░░�
 <td width="50%" valign="top">
 
 #### 🎓 Coursera Instructor
-*Automation with Ansible — 230+ learners*<br/>
+*Automation with Ansible — 300+ learners*<br/>
 Published a guided project teaching hands-on infrastructure automation with Ansible.
 <br/><br/>
 `ansible` `devops` `automation` `teaching`
@@ -182,7 +182,7 @@ Published a guided project teaching hands-on infrastructure automation with Ansi
 ### 🏆 Highlights
 
 ```text
-✔ 5+ years building production systems used by 7500+ users/clients
+✔ 6+ years building production systems used by 7500+ users/clients
 ✔ Designed AI platforms for organizations leveraging LLMs, RAG & MCP
 ✔ Scaled application services to 700+ requests/second
 ✔ Migrated observability across 2,500+ VMs at Sodexo (Dynatrace → Datadog)
