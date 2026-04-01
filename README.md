@@ -135,14 +135,14 @@ fun_fact: "I reduced manual evaluation time by 80% with AI, then automated the r
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 29 March 2026
+From: 23 March 2026 - To: 30 March 2026
 
-Markdown              3 hrs 38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-textmate              2 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-TypeScript            1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Bash                  1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-YAML                  1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Terraform             1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Markdown         3 hrs 10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
+YAML             1 hr 42 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+textmate         1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Terraform        1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+JSON             1 hr 3 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Java             38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
