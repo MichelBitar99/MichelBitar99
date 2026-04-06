@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/MichelBitar99/MichelBitar99/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
-```
-
-    
