@@ -135,14 +135,14 @@ fun_fact: "I reduced manual evaluation time by 80% with AI, then automated the r
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2026 - To: 19 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-TypeScript                 1 hr 14 mins          ██████████▓░░░░░░░░░░░░░░   43.15 %
-Terraform                  30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Markdown                   17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-TSConfig                   13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Text                       10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-HTML                       5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+TypeScript                 1 hr 14 mins          ██████████████░░░░░░░░░░░   55.54 %
+TSConfig                   13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Text                       10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Markdown                   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Bash                       4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Other                      3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
