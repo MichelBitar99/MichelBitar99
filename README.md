@@ -135,11 +135,14 @@ fun_fact: "I reduced manual evaluation time by 80% with AI, then automated the r
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2026 - To: 25 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
-TypeScript   43 mins               █████████████████████████   99.89 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-.env file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript     51 mins               █████████▓░░░░░░░░░░░░░░░   38.14 %
+Terraform      36 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+Smarty         27 mins               █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+YAML           12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+HCL            5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+.env file      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
