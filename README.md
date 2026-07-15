@@ -135,14 +135,14 @@ fun_fact: "I reduced manual evaluation time by 80% with AI, then automated the r
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-Java              41 mins               ███████████████░░░░░░░░░░   60.63 %
-TypeScript        17 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-Bash              3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-SQL               2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-JSON              1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-TOML              1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+TypeScript        43 mins               ██████████▒░░░░░░░░░░░░░░   41.82 %
+Java              41 mins               ██████████░░░░░░░░░░░░░░░   40.33 %
+Markdown          8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Bash              3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+SQL               2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JSON              1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
